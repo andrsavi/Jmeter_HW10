@@ -3454,7 +3454,7 @@
             </elementProp>
             <elementProp name="influxdbToken" elementType="Argument">
               <stringProp name="Argument.name">influxdbToken</stringProp>
-              <stringProp name="Argument.value">my-super-secret-token</stringProp>
+              <stringProp name="Argument.value">BSu4gr448eItgEpxPI7B-JsB_nWlw6GA5qnIJSGoy-TY80YQzzcjqgjo4F0Ii4up0HSsn5p0TbILnRcgZInX4A==</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
